@@ -30,14 +30,14 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 ## Results: 
 
 * Machine Learning Model 1: 
-* Model 1 Accuracy: 0.952
-* Model 1 Precision: Healthy Loans = 1.00, High-Risk loans = 0.85
-* Model 1 Recall: Healthy Loans = 0.99, High-Risk loans = 0.91
+  * Model 1 Accuracy: 0.952
+  * Model 1 Precision: Healthy Loans = 1.00, High-Risk loans = 0.85
+  * Model 1 Recall: Healthy Loans = 0.99, High-Risk loans = 0.91
 
 * Machine Learning Model 2: 
-* Model 2 Accuracy: 0.995
-* Model 2 Precision: Healthy Loans = 0.99, High-Risk loans = 0.99
-* Model 2 Recall: Healthy Loans = 0.99, High-Risk loans = 0.99
+  * Model 2 Accuracy: 0.995
+  * Model 2 Precision: Healthy Loans = 0.99, High-Risk loans = 0.99
+  * Model 2 Recall: Healthy Loans = 0.99, High-Risk loans = 0.99
 
 ## Summary: 
 * The oversampled data performed better when making predictions in our Logistic regression model. 
